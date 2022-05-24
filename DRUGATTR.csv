@@ -1,0 +1,294 @@
+,Ethnicity,Gender,HasTie
+1,White or other,Male,1
+2,White or other,Male,1
+3,White or other,Male,1
+4,White or other,Female,1
+5,Latino,Male,1
+6,Latino,Male,1
+7,White or other,Male,1
+8,Latino,Male,1
+9,White or other,Male,1
+10,Latino,Male,1
+11,Latino,Male,1
+12,African American,Male,1
+13,African American,Male,1
+14,African American,Male,1
+15,African American,Male,1
+16,Latino,Male,1
+17,Latino,Male,1
+18,Latino,Female,1
+19,Latino,Female,1
+20,Latino,Male,1
+21,Latino,Male,1
+22,Latino,Male,1
+23,Latino,Male,1
+24,African American,Male,1
+25,African American,Male,0
+26,African American,Female,0
+27,Latino,Male,1
+28,Latino,Female,1
+29,Latino,Male,1
+30,Latino,Male,1
+31,African American,Male,1
+32,African American,Male,1
+33,African American,Male,0
+34,African American,Male,1
+35,African American,Male,1
+36,Latino,Male,1
+37,White or other,Female,1
+38,African American,Male,1
+39,Latino,Male,1
+40,Latino,Male,1
+41,African American,Male,0
+42,African American,Male,1
+43,African American,Male,1
+44,African American,Male,0
+45,Latino,Male,1
+46,African American,Female,1
+47,Latino,Female,1
+48,Latino,Male,1
+49,Latino,Male,1
+50,Latino,Male,1
+51,Latino,Male,0
+52,Latino,Female,1
+53,Latino,Male,0
+54,African American,Female,1
+55,Latino,Male,1
+56,Latino,Male,1
+57,White or other,Male,1
+58,Latino,Male,1
+59,African American,Male,1
+60,White or other,Female,0
+61,African American,Male,1
+62,Latino,Female,0
+63,African American,Male,1
+64,Latino,Male,1
+65,Latino,Male,1
+66,Latino,Male,1
+67,Latino,Male,1
+68,Latino,Male,1
+69,White or other,Male,0
+70,Latino,Male,1
+71,African American,Female,1
+72,African American,Female,1
+73,African American,Male,0
+74,Latino,Male,1
+75,Latino,Female,1
+77,Latino,Male,1
+78,Latino,Male,1
+79,Latino,Male,1
+80,Latino,Male,0
+81,African American,Male,1
+82,White or other,Female,0
+83,Latino,Male,1
+84,Latino,Male,1
+85,Latino,Male,1
+86,African American,Male,0
+87,African American,Male,1
+88,African American,Female,1
+89,African American,Female,1
+90,African American,Female,1
+91,African American,Male,1
+92,African American,Female,1
+93,Latino,Female,1
+94,White or other,Male,0
+95,African American,Male,1
+96,Latino,Male,1
+97,Latino,Female,1
+98,African American,Male,1
+99,African American,Male,1
+100,African American,Female,1
+101,African American,Male,1
+102,African American,Female,1
+103,White or other,Male,0
+104,Latino,Male,1
+105,Latino,Male,1
+106,Latino,Male,1
+107,Latino,Male,1
+108,African American,Male,1
+109,Latino,Male,1
+110,Latino,Male,0
+112,Latino,Male,0
+113,White or other,Female,1
+114,Latino,Female,0
+115,Latino,Male,1
+116,African American,Male,1
+117,Latino,Male,1
+118,Latino,Male,1
+119,Latino,Male,0
+120,African American,Male,1
+121,White or other,Male,0
+122,African American,Female,1
+123,African American,Male,1
+124,African American,Male,1
+125,African American,Male,1
+126,African American,Male,1
+127,Latino,Male,1
+128,Latino,Male,1
+129,Latino,Male,1
+130,African American,Male,1
+131,African American,Male,1
+132,Latino,Female,0
+133,Latino,Male,0
+134,Latino,Male,1
+135,Latino,Male,1
+136,African American,Male,1
+137,African American,Male,1
+138,Latino,Male,0
+139,African American,Male,1
+140,African American,Male,1
+141,Latino,Male,1
+142,Latino,Male,1
+143,Latino,Male,1
+144,Latino,Male,1
+145,Latino,Male,1
+146,African American,Male,1
+147,African American,Female,1
+148,African American,Male,1
+149,African American,Male,1
+150,African American,Female,1
+151,African American,Male,1
+152,White or other,Female,1
+153,African American,Female,1
+154,White or other,Male,1
+155,Latino,Male,1
+156,Latino,Male,1
+157,Latino,Male,1
+158,Latino,Female,1
+159,Latino,Male,1
+160,African American,Male,0
+161,Latino,Female,0
+162,White or other,Male,0
+163,Latino,Male,1
+164,White or other,Male,0
+165,Latino,Male,1
+166,African American,Male,1
+167,White or other,Female,1
+168,Latino,Male,0
+169,African American,Male,1
+170,Latino,Male,0
+171,African American,Male,1
+172,Latino,Male,1
+173,African American,Male,1
+174,African American,Male,1
+175,Latino,Male,1
+176,Latino,Male,0
+177,African American,Male,1
+178,Latino,Male,1
+179,African American,Male,0
+180,Latino,Female,1
+181,White or other,Male,0
+182,Latino,Male,1
+183,Latino,Male,1
+184,African American,Male,1
+185,Latino,Male,1
+186,Latino,Female,0
+187,Latino,Male,1
+188,Latino,Male,1
+189,Latino,Male,1
+190,Latino,Male,1
+191,African American,Unkown,1
+192,African American,Male,1
+193,African American,Male,1
+194,African American,Male,1
+195,Latino,Male,0
+196,African American,Male,1
+197,Latino,Female,1
+198,African American,Male,0
+199,Latino,Male,1
+200,Latino,Male,1
+201,Latino,Unkown,0
+202,African American,Male,1
+203,Latino,Female,1
+204,Latino,Unkown,1
+205,Latino,Female,1
+206,African American,Male,1
+207,African American,Female,0
+208,Latino,Female,1
+209,African American,Male,1
+210,Latino,Male,1
+211,White or other,Female,1
+212,African American,Male,1
+213,African American,Male,1
+214,White or other,Female,0
+215,African American,Male,1
+216,African American,Male,1
+217,Latino,Male,1
+218,Latino,Female,0
+219,Latino,Male,1
+220,Latino,Female,1
+221,White or other,Male,0
+222,African American,Male,1
+223,Latino,Male,1
+224,Latino,Male,1
+225,Latino,Male,1
+226,Latino,Female,1
+227,Latino,Male,1
+228,White or other,Male,1
+229,Latino,Male,0
+230,Latino,Female,0
+231,Latino,Male,1
+232,Latino,Male,1
+233,African American,Male,1
+234,Latino,Male,1
+235,African American,Female,1
+236,Latino,Male,1
+237,White or other,Male,0
+238,Latino,Male,0
+239,African American,Male,1
+240,African American,Female,1
+241,African American,Male,0
+242,African American,Male,0
+243,African American,Male,0
+244,Latino,Male,1
+245,Latino,Male,1
+246,African American,Male,1
+247,White or other,Female,0
+248,African American,Male,0
+249,African American,Female,0
+250,African American,Female,0
+251,Latino,Female,1
+252,White or other,Female,1
+253,Latino,Male,0
+254,Latino,Male,1
+255,Latino,Male,1
+256,Latino,Male,1
+257,Latino,Male,0
+258,Latino,Female,1
+259,Latino,Female,0
+260,Latino,Female,1
+262,White or other,Male,0
+265,African American,Unkown,0
+266,White or other,Unkown,0
+267,White or other,Female,0
+268,Latino,Female,0
+269,Latino,Female,0
+270,White or other,Female,0
+271,White or other,Female,0
+272,White or other,Female,0
+273,Latino,Unkown,1
+274,Latino,Female,0
+275,Latino,Female,1
+276,White or other,Female,0
+277,Latino,Female,1
+278,Latino,Female,0
+279,White or other,Female,0
+280,Latino,Female,1
+281,Latino,Female,0
+282,Latino,Female,0
+283,African American,Male,0
+284,Latino,Female,0
+285,Latino,Female,1
+286,Latino,Female,0
+287,African American,Male,1
+288,Latino,Unkown,0
+289,White or other,Female,0
+290,Latino,Female,1
+291,African American,Female,0
+292,White or other,Female,0
+293,Latino,Female,0
+294,Latino,Female,0
+295,Latino,Female,1
+296,Latino,Female,0
+297,White or other,Female,0
+298,Latino,Female,1
